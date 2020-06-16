@@ -22,15 +22,15 @@ SingleTrack.m
 
 - Exmaple where front and rear wheel set perform inverse steering
 
-![Example where front and rear wheel set perform inverse steering](./Examples/Example1.png?raw=true )
+![Example where front and rear wheel set perform inverse steering](https://raw.githubusercontent.com/SKenb/Matlab_SingleTrackModel/master/Examples/Example1.PNG)
 
 - Exmaple where rear wheel set is fixed - like a normal car
 
-![Example where rear wheel set is fixed - normal car](./Example_RearFixed.png?raw=true )
+![Example where rear wheel set is fixed - normal car](https://raw.githubusercontent.com/SKenb/Matlab_SingleTrackModel/master/Examples/Example_RearFixed.PNG)
 
 - Exmaple where front and rear wheel set perform same steering
 
-![Example where front and rear wheel set perform same steering](./Examples/Example_Equal.png?raw=true )
+![Example where front and rear wheel set perform same steering](https://raw.githubusercontent.com/SKenb/Matlab_SingleTrackModel/master/Examples/Example_Equal.PNG)
 
 ## TODO
 
