@@ -4,7 +4,7 @@ close all;
 clc;
 
 % -------------------
-delta_r_option = 3; % 1...rear fixed, 2...rear equeal front, 3...rear inverse of front, 4...half inverse of front
+delta_r_option = 2; % 1...rear fixed, 2...rear equeal front, 3...rear inverse of front, 4...half inverse of front
 steering_factor = 1/3;
 speed = 2;
 % -------------------
