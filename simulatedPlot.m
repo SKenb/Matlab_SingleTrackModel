@@ -30,7 +30,7 @@
 %---------------------------------------------------------
 function simulatedPlot(x, y, r, delta_f, delta_r, a, b)
 
-  step_size = 1;
+  step_size = 10;
   filename = "simulatedPlot.gif";
   plot_lines = 1;
 
